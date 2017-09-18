@@ -2,143 +2,358 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="490b3bbe-35cd-439b-b8be-1c2f03da755d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/51CTO下载-jstl-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/ant-1.7.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/aopalliance-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/aspectjweaver.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/aspriseOCR.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/cglib-nodep-2.1_3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/classmate-1.1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-codec-1.9.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-collections-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-dbcp-1.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-fileupload-1.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-io-2.0.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-lang3-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-logging-1.1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-pool-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/date4j.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/druid-1.0.9.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/ehcache-2.10.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/hibernate-validator-5.2.2.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-annotations-2.4.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-core-2.4.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-databind-2.4.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jaudiotagger-2.0.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/javax.el-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/javax.el-api-2.2.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jboss-logging-3.2.1.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jcl-over-slf4j-1.7.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/joda-time-2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/json-lib-2.4-jdk15.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/log4j-1.2.16.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/logback-classic-1.1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/logback-core-1.1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mybatis-3.3.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mybatis-ehcache-1.0.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mybatis-spring-1.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.6-bin.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/servlet-api.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/slf4j-api-1.7.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-aop-4.1.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-beans-4.1.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-context-4.1.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-context-support-4.1.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-core-4.1.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-expression-4.1.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-jdbc-4.1.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-orm-4.1.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-test-4.1.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-tx-4.1.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-web-4.1.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-webmvc-4.1.5.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/struts2-json-plugin-2.3.15.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/validation-api-1.1.0.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/xmlschema-core-2.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/xwork-core-2.3.15.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/ip/qqwry.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/fontsome/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/fontsome/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/fontsome/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/fontsome/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/fontsome/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/iconfont/iconfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/iconfont/iconfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/iconfont/iconfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/iconfont/iconfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/iconfont/iconfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/iconfont/iconfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/barmenu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/check.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/check2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/chosen-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/controls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/dialog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/load.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/menuarrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/minimize.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/sliderhor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/sliderver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/spinner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/uploadext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/uploadicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/common/common.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/common/left.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/common/taglib.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/content/list.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/content/template.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/message/list.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/message/template.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/tld/tz.tld" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/moonvipadmin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/css/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/fontsome/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/fontsome/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/iconfont/iconfont.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/iconfont/iconfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/js/tz_admin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/chapter01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/sg.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/sganimate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-loading.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-tab.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-tip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-upload.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz_magic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/iconfont/iconfont.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/iconfont/iconfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/idcard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/jquery-1.11.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/sg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/sgutil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/tm_validator1.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/tz_audio.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/tz_highLighter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/tz_page.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/web.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/51CTO下载-jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/ant-1.7.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/aspectjweaver.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/aspriseOCR.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/cglib-nodep-2.1_3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/classmate-1.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-codec-1.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-collections-3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-dbcp-1.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-io-2.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-lang3-3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-logging-1.1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-pool-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/date4j.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/druid-1.0.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/ehcache-2.10.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/hibernate-validator-5.2.2.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-annotations-2.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-core-2.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-databind-2.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jaudiotagger-2.0.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/javax.el-2.2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/javax.el-api-2.2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jboss-logging-3.2.1.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jcl-over-slf4j-1.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/joda-time-2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/json-lib-2.4-jdk15.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/log4j-1.2.16.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/logback-classic-1.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/logback-core-1.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mybatis-3.3.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mybatis-ehcache-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mybatis-spring-1.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.6-bin.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/servlet-api.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/slf4j-api-1.7.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-aop-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-beans-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-context-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-context-support-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-core-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-expression-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-jdbc-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-orm-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-test-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-tx-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-web-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-webmvc-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/struts2-json-plugin-2.3.15.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/xmlschema-core-2.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/xwork-core-2.3.15.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/common/common.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/common/left.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/common/taglib.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/content/list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/content/template.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/message/list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/message/template.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/WEB-INF/tld/tz.tld" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/ip/qqwry.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/moonvipadmin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/fontsome/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/fontsome/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/fontsome/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/fontsome/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/fontsome/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/fontsome/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/fontsome/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/iconfont/iconfont.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/iconfont/iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/iconfont/iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/iconfont/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/iconfont/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/js/tz_admin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/chapter01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/css/sg.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/css/sganimate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-loading.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-page.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-slider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-tab.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-tip.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-upload.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz_magic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/iconfont/iconfont.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/iconfont/iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/iconfont/iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/iconfont/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/iconfont/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/idcard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/barmenu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/check.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/check2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/chosen-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/controls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/dialog.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/load.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/menuarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/minimize.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/sliderhor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/sliderver.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/spinner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/uploadext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/images/uploadicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/jquery-1.11.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/sg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/sgutil.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/tm_validator1.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/tz_audio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/tz_highLighter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/tz_page.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/resources/sg/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/WebRoot/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/auto/SqlFileExecutor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/auto/TzAutoProject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/bean/AdminUser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/bean/Channel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/bean/Content.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/bean/Message.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/bean/TzParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/core/BaseController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/core/BasePathExpsoer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/core/ExamplePlugin.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/core/ExampleTypeHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/core/LoginIntercetor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/core/PermissionInterceptor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/core/StringTypeHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/core/UTF8StringHttpMessageConverter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/core/des/DESUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/core/des/EncryptPropertyPlaceholderConfigurer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/dao/content/IContentMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/dao/message/IMessageMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/dao/user/IAdminUserMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/service/content/IContentService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/service/content/impl/ContentServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/service/message/IMessageService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/service/message/impl/MessageServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/service/user/IUserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/service/user/impl/UserServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/tag/Trans2RMB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/tag/TzElseTag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/tag/TzFunctions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/tag/TzIFTag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/tag/TzLoopTag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/tag/TzThenTag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/tag/TzUpperCase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/BooleanEditor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/DateEditor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/DateFormateEditor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/ImageUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/StringToDateConvert.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/TmFileUtil$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/TmFileUtil$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/TmFileUtil$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/TmFileUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/TmStringUtils$ENCODING.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/TmStringUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/TzConstant.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/ip/IPEntry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/ip/IPLocation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/ip/IPSeeker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/ip/LogFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/ip/Message.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/ip/TmIPSeeker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/ip/TmIpUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/ip/TmStringSubUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/util/ip/Util.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/web/IndexController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/web/LoginController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/web/content/ContentController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/tz/web/message/MessageController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/aspriseOCR.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/cglib-nodep-2.1_3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/classmate-1.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/commons-collections-3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/commons-dbcp-1.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/commons-pool-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/date4j.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/druid-1.0.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/ehcache-2.10.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/hibernate-validator-5.2.2.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/jaudiotagger-2.0.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/javax.el-2.2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/javax.el-api-2.2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.2.1.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/joda-time-2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/json-lib-2.4-jdk15.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.16.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/logback-classic-1.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/logback-core-1.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.3.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/mybatis-ehcache-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.6-bin.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/servlet-api.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/spring-test-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/struts2-json-plugin-2.3.15.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/xmlschema-core-2.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/lib/xwork-core-2.3.15.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/moonvipadmin.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/pages/common/common.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/pages/common/left.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/pages/common/taglib.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/pages/content/list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/pages/content/template.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/pages/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/pages/login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/pages/message/list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/pages/message/template.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/tld/tz.tld" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/ip/qqwry.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/fontsome/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/fontsome/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/fontsome/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/fontsome/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/fontsome/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/fontsome/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/fontsome/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/iconfont/iconfont.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/iconfont/iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/iconfont/iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/iconfont/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/iconfont/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/js/tz_admin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/chapter01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/css/sg.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/css/sganimate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/css/tz-dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/css/tz-loading.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/css/tz-page.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/css/tz-slider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/css/tz-tab.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/css/tz-tip.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/css/tz-upload.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/css/tz_magic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/fontsome/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/fontsome/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/fontsome/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/fontsome/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/fontsome/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/fontsome/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/fontsome/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/iconfont/iconfont.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/iconfont/iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/iconfont/iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/iconfont/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/iconfont/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/idcard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/barmenu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/check.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/check2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/chosen-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/controls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/dialog.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/load.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/menuarrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/minimize.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/sliderhor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/sliderver.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/spinner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/uploadext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/images/uploadicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/jquery-1.11.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/sg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/sgutil.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/tm_validator1.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/tz_audio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/tz_highLighter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/tz_page.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mavenDemo_3-1.0-SNAPSHOT/resources/sg/utils.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-fileupload-1.2.1.jar" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-fileupload-1.2.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-io-2.0.1.jar" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-io-2.0.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/mybatis-ehcache-1.0.0.jar" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/mybatis-ehcache-1.0.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/slf4j-api-1.7.6.jar" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/slf4j-api-1.7.6.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/ip/qqwry.dat" afterPath="$PROJECT_DIR$/src/main/webapp/ip/qqwry.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/fontsome/FontAwesome.otf" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fontsome/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/fontsome/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fontsome/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/fontsome/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fontsome/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/fontsome/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fontsome/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/fontsome/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fontsome/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/iconfont/iconfont.eot" afterPath="$PROJECT_DIR$/src/main/webapp/resources/iconfont/iconfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/iconfont/iconfont.ttf" afterPath="$PROJECT_DIR$/src/main/webapp/resources/iconfont/iconfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/iconfont/iconfont.woff" afterPath="$PROJECT_DIR$/src/main/webapp/resources/iconfont/iconfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/sg/fontsome/FontAwesome.otf" afterPath="$PROJECT_DIR$/src/main/webapp/resources/sg/fontsome/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/sg/fontsome/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/src/main/webapp/resources/sg/fontsome/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/sg/fontsome/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/src/main/webapp/resources/sg/fontsome/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/sg/fontsome/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/src/main/webapp/resources/sg/fontsome/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/sg/fontsome/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/src/main/webapp/resources/sg/fontsome/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/sg/iconfont/iconfont.eot" afterPath="$PROJECT_DIR$/src/main/webapp/resources/sg/iconfont/iconfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/sg/iconfont/iconfont.ttf" afterPath="$PROJECT_DIR$/src/main/webapp/resources/sg/iconfont/iconfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/sg/iconfont/iconfont.woff" afterPath="$PROJECT_DIR$/src/main/webapp/resources/sg/iconfont/iconfont.woff" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -156,62 +371,85 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="list.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content/list.jsp">
+      <file leaf-file-name="BasePathExpsoer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tz/core/BasePathExpsoer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="76" column="25" lean-forward="false" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
-              <folding />
+            <state relative-caret-position="105">
+              <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="e#917#918#0" expanded="false" />
+                <element signature="e#946#947#0" expanded="false" />
+                <element signature="e#991#992#0" expanded="false" />
+                <element signature="e#1022#1023#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content/template.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tz_admin.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/tz_admin.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="64" column="11" lean-forward="false" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="left.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/common/left.jsp">
+      <file leaf-file-name="mavenDemo_3.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mavenDemo_3.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IContentMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tz/dao/content/IContentMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Content.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tz/dao/content/Content.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1281">
+              <caret line="61" column="20" lean-forward="false" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+              <folding>
+                <marker date="1505367255317" expanded="true" signature="280:1161" ph="SELECT id, t... keke_content" />
+                <marker date="1505367255317" expanded="true" signature="1731:2046" ph="update keke_... " />
+                <marker date="1505367255317" expanded="true" signature="2162:2216" ph="update keke_... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tz/core/BaseController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="moonvipadmin.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebRoot/moonvipadmin.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/moonvipadmin.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="189">
+              <caret line="108" column="8" lean-forward="false" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WebRoot/web.xml">
+      <file leaf-file-name="AdminUser.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tz/dao/user/AdminUser.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
-              <folding />
+            <state relative-caret-position="189">
+              <caret line="72" column="8" lean-forward="false" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+              <folding>
+                <marker date="1505354851078" expanded="true" signature="2761:2905" ph="SELECT id, u... keke_admin_user" />
+                <marker date="1505354851078" expanded="true" signature="3324:3443" ph="update keke_... " />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -219,7 +457,7 @@
       <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
+            <state relative-caret-position="1281">
               <caret line="61" column="70" lean-forward="false" selection-start-line="61" selection-start-column="70" selection-end-line="61" selection-end-column="70" />
               <folding />
             </state>
@@ -230,17 +468,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1554">
-              <caret line="74" column="25" lean-forward="true" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tz.tld" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tld/tz.tld">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1281">
-              <caret line="61" column="1" lean-forward="false" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+              <caret line="74" column="25" lean-forward="false" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -349,7 +577,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -369,38 +596,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mavenDemo_3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mavenDemo_3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mavenDemo_3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebRoot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mavenDemo_3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mavenDemo_3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebRoot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -458,7 +653,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -480,11 +679,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value="webapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -503,11 +706,128 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tz" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -516,22 +836,22 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Git\mavenDemo_3\src\main\webapp\WEB-INF" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git\mavenDemo_3\src\main\webapp\WEB-INF\lib" />
       <recent name="D:\Git\mavenDemo_3\WebRoot" />
       <recent name="D:\Git\mavenDemo_3\WebRoot\WEB-INF" />
       <recent name="D:\Git\mavenDemo_3\WebRoot\WEB-INF\pages" />
       <recent name="D:\Git\mavenDemo_3\WebRoot\WEB-INF\lib" />
-      <recent name="D:\Git\mavenDemo_3" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Git\mavenDemo_3\src\main\webapp\WEB-INF" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Unnamed">
@@ -1034,16 +1354,25 @@
       <updated>1505307441646</updated>
       <workItem from="1505307444689" duration="16397000" />
       <workItem from="1505698773405" duration="1199000" />
-      <workItem from="1505732377140" duration="1421000" />
+      <workItem from="1505732377140" duration="5111000" />
+      <workItem from="1505738407898" duration="1698000" />
     </task>
+    <task id="LOCAL-00001" summary="Issue #[issue 1 by [ 汪强 ]: [ add(新增)    :  添加损坏的代码。].">
+      <created>1505734040516</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1505734040516</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19017000" />
+    <option name="totallyTimeSpent" value="24405000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1059,7 +1388,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33974358" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1068,9 +1397,10 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25479743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25746268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1078,7 +1408,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1086,6 +1415,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Issue #[issue 1 by [ 汪强 ]: [ add(新增)    :  添加损坏的代码。]." />
+    <option name="LAST_COMMIT_MESSAGE" value="Issue #[issue 1 by [ 汪强 ]: [ add(新增)    :  添加损坏的代码。]." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1096,40 +1429,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mavenDemo_3.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/log4j.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/common/left.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/message/list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/login.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1186,27 +1489,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mavenDemo_3.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/common/taglib.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="44" lean-forward="false" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/mybatis-3.3.0-SNAPSHOT.jar!/org/apache/ibatis/binding/MapperMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="339" column="0" lean-forward="false" selection-start-line="339" selection-start-column="0" selection-end-line="339" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/moonvipadmin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="123" column="67" lean-forward="false" selection-start-line="123" selection-start-column="67" selection-end-line="123" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/mybatis-3.3.0-SNAPSHOT.jar!/org/apache/ibatis/binding/MapperMethod.class" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/ehcache.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
@@ -1218,14 +1501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tz/dao/content/IContentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1240">
-          <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1233,20 +1508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-37129">
           <caret line="193" column="23" lean-forward="true" selection-start-line="193" selection-start-column="23" selection-end-line="193" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tz/dao/user/AdminUser.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1317">
-          <caret line="67" column="12" lean-forward="false" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tz/dao/content/Content.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="61" column="20" lean-forward="false" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1261,17 +1522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3465">
           <caret line="165" column="4" lean-forward="false" selection-start-line="165" selection-start-column="4" selection-end-line="165" selection-end-column="4" />
-          <folding>
-            <marker date="1448682765078" expanded="true" signature="23495:23539" ph="..." />
-            <marker date="1448682765078" expanded="true" signature="23606:23705" ph="..." />
-            <marker date="1448682765078" expanded="true" signature="23834:23878" ph="..." />
-            <marker date="1448682765078" expanded="true" signature="23883:23889" ph="&amp;nbsp;" />
-            <marker date="1448682765078" expanded="true" signature="23889:23895" ph="&amp;nbsp;" />
-            <marker date="1448682765078" expanded="true" signature="23991:24058" ph="..." />
-            <marker date="1448682765078" expanded="true" signature="24883:24898" ph="..." />
-            <marker date="1448682765078" expanded="true" signature="26309:26315" ph="&amp;nbsp;" />
-            <marker date="1448682765078" expanded="true" signature="26315:26321" ph="&amp;nbsp;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1279,23 +1529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1281">
           <caret line="61" column="1" lean-forward="false" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content/list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="76" column="25" lean-forward="false" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content/template.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1334,63 +1567,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/tz_admin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="64" column="11" lean-forward="false" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/message/template.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/message/list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="55" lean-forward="true" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/common/left.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/tld/tz.tld">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/message/template.jsp" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/message/list.jsp" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/common/left.jsp" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/tld/tz.tld" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1554">
-          <caret line="74" column="25" lean-forward="true" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
+          <caret line="74" column="25" lean-forward="false" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
+        <state relative-caret-position="1281">
           <caret line="61" column="70" lean-forward="false" selection-start-line="61" selection-start-column="70" selection-end-line="61" selection-end-column="70" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/moonvipadmin.xml">
+    <entry file="file://$PROJECT_DIR$/WebRoot/moonvipadmin.xml" />
+    <entry file="file://$PROJECT_DIR$/WebRoot/resources/js/tz_admin.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/tz_admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="26" column="4" lean-forward="false" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content/template.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="44" lean-forward="false" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/common/taglib.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="44" lean-forward="false" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/common/common.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="61" lean-forward="true" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/web.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tz/core/BasePathExpsoer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#917#918#0" expanded="false" />
+            <element signature="e#946#947#0" expanded="false" />
+            <element signature="e#991#992#0" expanded="false" />
+            <element signature="e#1022#1023#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenDemo_3.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1398,11 +1649,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebRoot/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tz/dao/content/IContentMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        <state relative-caret-position="21">
+          <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tz/dao/content/Content.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1281">
+          <caret line="61" column="20" lean-forward="false" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+          <folding>
+            <marker date="1505367255317" expanded="true" signature="280:1161" ph="SELECT id, t... keke_content" />
+            <marker date="1505367255317" expanded="true" signature="1731:2046" ph="update keke_... " />
+            <marker date="1505367255317" expanded="true" signature="2162:2216" ph="update keke_... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tz/core/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/moonvipadmin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="108" column="8" lean-forward="false" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tz/dao/user/AdminUser.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="72" column="8" lean-forward="false" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+          <folding>
+            <marker date="1505354851078" expanded="true" signature="2761:2905" ph="SELECT id, u... keke_admin_user" />
+            <marker date="1505354851078" expanded="true" signature="3324:3443" ph="update keke_... " />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1484,7 +1774,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>aopalliance-1.0</last-edited>
+          <last-edited>aopalliance-1.0 (2)</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
