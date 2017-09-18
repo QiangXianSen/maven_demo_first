@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.tz.dao.content.IContentMapper" >
+	<select id="findContents" resultType="Content" parameterType="TzParams">
+		SELECT
+			id,
+			title,
+			content,
+			create_time as createTime,
+			update_time as updateTime,
+			user_id as userId,
+			tag,
+			is_top as isTop,
+			is_delete as isDelete,
+			status ,
+			channel_id as channelId,
+			img,
+			push,
+			is_comment as isComment,
+			hits,
+			loves,
+			collections,
+			static_link as staticLink,
+			keywords,
+			description,
+			sub_title as subTitle,
+			type,
+			category_id as categoryId,
+			thumnail
+		FROM
+			keke_content
+		<trim prefix="WHERE" prefixOverrides="AND | OR">  
+			<if test="@com.tz.util.TmStringUtils@isNotEmpty(channelId)">
+				AND channel_id = #{channelId}
+			</if>
+			<if test="@com.tz.util.TmStringUtils@isNotEmpty(keyword)">
+				 AND title LIKE '%${keyword}%'
+			</if>
+			<if test="@com.tz.util.TmStringUtils@isNotEmpty(isDelete)">
+				AND is_delete = #{isDelete}
+			</if>
+		</trim>
+		ORDER BY ${order}
+		LIMIT #{pageNo} ,#{pageSize};				
+	</select>
+	
+	
+	<select id="count" resultType="int" parameterType="TzParams">
+		SELECT
+			count(1) 
+		FROM
+			keke_content 
+		<trim prefix="WHERE" prefixOverrides="AND | OR">  
+			<if test="@com.tz.util.TmStringUtils@isNotEmpty(channelId)">
+				AND channel_id = #{channelId}
+			</if>
+			<if test="@com.tz.util.TmStringUtils@isNotEmpty(keyword)">
+				AND title LIKE '%${keyword}%'
+			</if>
+			<if test="@com.tz.util.TmStringUtils@isNotEmpty(isDelete)">
+				AND is_delete = #{isDelete}
+			</if>
+		</trim>
+	</select>
+	
+	<update id="update" parameterType="Content">
+		update keke_content 
+		<set>
+			<if test="status!=null">status=#{status},</if>
+			<if test="isDelete!=null">is_delete=#{isDelete},</if>
+			<if test="isComment!=null">is_comment=#{isComment},</if>
+			<if test="isTop!=null">is_top=#{isTop},</if>
+			<if test="push!=null">push=#{push},</if>
+		</set>
+		where id = #{id}
+	</update>
+	
+	<delete id="delete" parameterType="TzParams">
+<!-- 	delete from keke_content  where id = #{id} -->
+		update keke_content set is_delete = 1 where id = #{id}
+	</delete>
+</mapper>
