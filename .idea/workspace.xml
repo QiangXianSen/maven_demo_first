@@ -1,7 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="490b3bbe-35cd-439b-b8be-1c2f03da755d" name="Default" comment="" />
+    <list default="true" id="490b3bbe-35cd-439b-b8be-1c2f03da755d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/51CTO下载-jstl-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/ant-1.7.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/aopalliance-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/aspectjweaver.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/aspriseOCR.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/cglib-nodep-2.1_3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/classmate-1.1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-codec-1.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-collections-3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-dbcp-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-fileupload-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-io-2.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-lang3-3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-logging-1.1.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-pool-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/date4j.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/druid-1.0.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/ehcache-2.10.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/hibernate-validator-5.2.2.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-annotations-2.4.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-core-2.4.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jackson-databind-2.4.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jaudiotagger-2.0.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/javax.el-2.2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/javax.el-api-2.2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jboss-logging-3.2.1.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/jcl-over-slf4j-1.7.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/joda-time-2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/json-lib-2.4-jdk15.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/log4j-1.2.16.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/logback-classic-1.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/logback-core-1.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mybatis-3.3.0-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mybatis-ehcache-1.0.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mybatis-spring-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.6-bin.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/servlet-api.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/slf4j-api-1.7.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-aop-4.1.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-beans-4.1.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-context-4.1.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-context-support-4.1.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-core-4.1.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-expression-4.1.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-jdbc-4.1.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-orm-4.1.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-test-4.1.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-tx-4.1.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-web-4.1.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/spring-webmvc-4.1.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/struts2-json-plugin-2.3.15.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/validation-api-1.1.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/xmlschema-core-2.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/lib/xwork-core-2.3.15.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/ip/qqwry.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/fontsome/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/fontsome/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/fontsome/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/fontsome/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/fontsome/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/iconfont/iconfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/iconfont/iconfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/iconfont/iconfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/iconfont/iconfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/iconfont/iconfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/iconfont/iconfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/barmenu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/check2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/chosen-sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/controls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/dialog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/load.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/menuarrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/minimize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/sliderhor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/sliderver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/spinner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/uploadext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/images/uploadicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/common/common.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/common/left.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/common/taglib.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/content/list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/content/template.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/message/list.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/pages/message/template.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/WEB-INF/tld/tz.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/moonvipadmin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/fontsome/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/fontsome/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/iconfont/iconfont.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/iconfont/iconfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/js/tz_admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/chapter01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/sg.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/sganimate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-loading.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-tab.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-tip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz-upload.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/css/tz_magic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/fontsome/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/iconfont/iconfont.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/iconfont/iconfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/idcard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/jquery-1.11.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/sg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/sgutil.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/tm_validator1.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/tz_audio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/tz_highLighter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/tz_page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/resources/sg/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebRoot/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +159,7 @@
       <file leaf-file-name="list.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content/list.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1596">
+            <state relative-caret-position="0">
               <caret line="76" column="25" lean-forward="false" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
               <folding />
             </state>
@@ -37,11 +176,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tz_admin.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tz_admin.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/tz_admin.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="477">
               <caret line="64" column="11" lean-forward="false" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="left.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/common/left.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="moonvipadmin.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebRoot/moonvipadmin.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebRoot/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="676">
+              <caret line="61" column="70" lean-forward="false" selection-start-line="61" selection-start-column="70" selection-end-line="61" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1554">
+              <caret line="74" column="25" lean-forward="true" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -53,26 +242,6 @@
             <state relative-caret-position="1281">
               <caret line="61" column="1" lean-forward="false" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sg.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/sg/sg.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3465">
-              <caret line="165" column="4" lean-forward="false" selection-start-line="165" selection-start-column="4" selection-end-line="165" selection-end-column="4" />
-              <folding>
-                <marker date="1448682765078" expanded="true" signature="23495:23539" ph="..." />
-                <marker date="1448682765078" expanded="true" signature="23606:23705" ph="..." />
-                <marker date="1448682765078" expanded="true" signature="23834:23878" ph="..." />
-                <marker date="1448682765078" expanded="true" signature="23883:23889" ph="&amp;nbsp;" />
-                <marker date="1448682765078" expanded="true" signature="23889:23895" ph="&amp;nbsp;" />
-                <marker date="1448682765078" expanded="true" signature="23991:24058" ph="..." />
-                <marker date="1448682765078" expanded="true" signature="24883:24898" ph="..." />
-                <marker date="1448682765078" expanded="true" signature="26309:26315" ph="&amp;nbsp;" />
-                <marker date="1448682765078" expanded="true" signature="26315:26321" ph="&amp;nbsp;" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -91,6 +260,14 @@
       <find>mavenDemo_3</find>
       <find>tmui-tips</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -119,6 +296,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content/template.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/js/tz_admin.js" />
         <option value="$PROJECT_DIR$/template/list.txt" />
+        <option value="$PROJECT_DIR$/WebRoot/web.xml" />
       </list>
     </option>
   </component>
@@ -153,6 +331,9 @@
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -168,8 +349,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -189,6 +369,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebRoot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebRoot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -223,10 +435,81 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mavenDemo_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,15 +523,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git\mavenDemo_3\WebRoot" />
+      <recent name="D:\Git\mavenDemo_3\WebRoot\WEB-INF" />
+      <recent name="D:\Git\mavenDemo_3\WebRoot\WEB-INF\pages" />
+      <recent name="D:\Git\mavenDemo_3\WebRoot\WEB-INF\lib" />
+      <recent name="D:\Git\mavenDemo_3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Git\mavenDemo_3\src\main\webapp\WEB-INF" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Git\mavenDemo_3" />
-      <recent name="D:\Git\mavenDemo_3\src\main\webapp\WEB-INF" />
-      <recent name="D:\Git\mavenDemo_3\src\main\resources\spring" />
-      <recent name="D:\Git\mavenDemo_3\src\main\java\com\tz\web" />
-      <recent name="D:\Git\mavenDemo_3\src\main\java\com\tz" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Unnamed">
@@ -751,15 +1034,16 @@
       <updated>1505307441646</updated>
       <workItem from="1505307444689" duration="16397000" />
       <workItem from="1505698773405" duration="1199000" />
+      <workItem from="1505732377140" duration="1421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17596000" />
+    <option name="totallyTimeSpent" value="19017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -773,17 +1057,18 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34044823" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33974358" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2521322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25479743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -792,7 +1077,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -812,64 +1096,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/list.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/mapper.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/service.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/serviceImpl.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tld/tz.tld">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1281">
-          <caret line="61" column="1" lean-forward="false" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/sg/sg.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3465">
-          <caret line="165" column="4" lean-forward="false" selection-start-line="165" selection-start-column="4" selection-end-line="165" selection-end-column="4" />
-          <folding>
-            <marker date="1448682765078" expanded="true" signature="23495:23539" ph="..." />
-            <marker date="1448682765078" expanded="true" signature="23606:23705" ph="..." />
-            <marker date="1448682765078" expanded="true" signature="23834:23878" ph="..." />
-            <marker date="1448682765078" expanded="true" signature="23883:23889" ph="&amp;nbsp;" />
-            <marker date="1448682765078" expanded="true" signature="23889:23895" ph="&amp;nbsp;" />
-            <marker date="1448682765078" expanded="true" signature="23991:24058" ph="..." />
-            <marker date="1448682765078" expanded="true" signature="24883:24898" ph="..." />
-            <marker date="1448682765078" expanded="true" signature="26309:26315" ph="&amp;nbsp;" />
-            <marker date="1448682765078" expanded="true" signature="26315:26321" ph="&amp;nbsp;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mavenDemo_3.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -960,18 +1186,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mavenDemo_3.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="61" column="70" lean-forward="false" selection-start-line="61" selection-start-column="70" selection-end-line="61" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/common/taglib.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="44" lean-forward="false" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1000,14 +1218,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="84" column="29" lean-forward="true" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -1075,7 +1285,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/content/list.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1596">
+        <state relative-caret-position="0">
           <caret line="76" column="25" lean-forward="false" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
           <folding />
         </state>
@@ -1093,7 +1303,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1101,7 +1310,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1109,7 +1317,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1117,7 +1324,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="30" column="31" lean-forward="false" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1125,7 +1331,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1133,6 +1338,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="477">
           <caret line="64" column="11" lean-forward="false" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/message/template.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/message/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="55" lean-forward="true" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/pages/common/left.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/WEB-INF/tld/tz.tld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1554">
+          <caret line="74" column="25" lean-forward="true" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="61" column="70" lean-forward="false" selection-start-line="61" selection-start-column="70" selection-end-line="61" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/moonvipadmin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
           <folding />
         </state>
       </provider>
